@@ -1,5 +1,5 @@
 # Setup-basics
-Use this script to download essential apps and update the system. 
-type "bash initialiser.sh" and give the password to execute.
+Use this bash script to download essential apps and update the system.
+Type "bash initialiser.sh" and give the password to execute.
 Then,just sit back and relax.
 
