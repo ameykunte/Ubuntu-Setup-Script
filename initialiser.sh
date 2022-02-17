@@ -5,7 +5,7 @@ echo $(sudo snap install notion-snap)
 echo $(sudo snap install spotify)
 echo $(sudo snap install whatsapp-for-linux)
 echo $(sudo snap install teams)
-echo $(sudo snap install libreoffice)
+echo $(sudo snap install vlc)
 echo $(sudo snap install prospect-mail)
 echo $(sudo snap install code --classic)
 echo "downloaded the apps,updating the system"
