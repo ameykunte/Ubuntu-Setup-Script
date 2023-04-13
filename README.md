@@ -6,7 +6,7 @@ Clone the repository to your local machine:
 bash
 
 ### Copy code
-```git clone https://github.com/<your-username>/Ubuntu-Setup-Script.git```
+```git clone https://github.com/ameykunte/Ubuntu-Setup-Script.git```
 
 ### Open a terminal and navigate to the cloned directory:
 ```cd Ubuntu-Setup-Script```
