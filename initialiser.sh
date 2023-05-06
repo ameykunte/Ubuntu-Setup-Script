@@ -65,6 +65,9 @@ function update_system {
     echo "Updating the system..."
     sudo apt-get update && sudo apt-get upgrade -y
     sudo apt-get install -y preload
+    sudo apt-get install -y htop 
+    sudo apt-get install tlp tlp-rdw
+
 }
 
 # Function to clean up the system
